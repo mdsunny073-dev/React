@@ -1,0 +1,58 @@
+#banner{
+    padding: 200px 100px;
+    background: #1C1E53;
+}
+.steller h2{
+    width: 582px;
+    color: var(--white, #FFF);
+    font-size: 54px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px;
+}
+.lorem p{
+    width: 562px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    margin-top: 24px;
+    opacity: 0.699999988079071;
+    color: var(--white, #FFF);
+}
+.second-button button{
+    padding: 16px 56px;
+    margin-top: 48px;
+    border-radius: 41px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    background: #FCD980;
+    border: 1px solid #FCD980;
+    color: #1B1C2B;
+    transition: all linear 0.5s;
+}
+.second-button button:hover{
+    background: #07e451;
+}
+.view p {
+    color: var(--white, #FFF);
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 73px;
+    margin-left: 50px;
+}
+.arrow img{
+    margin-top: 71px;
+    margin-left: 18px;
+}
+.last-part{
+    display: flex;
+}
+.illu img{
+    margin-top: 43px;
+}

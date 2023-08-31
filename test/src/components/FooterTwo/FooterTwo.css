@@ -1,0 +1,28 @@
+#bottom{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.copy h2{
+    color: var(--dark-blue, #282938);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+.last-nav{
+    display: flex;
+    margin-left: 133px;
+}
+.last-nav h2{
+    color: var(--dark-blue, #282938);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 31px;
+}
+.last-nav h2:hover{
+    color: #07e451;
+    transition: 0.8s;
+    cursor: pointer;
+}

@@ -1,0 +1,130 @@
+#work{
+    padding: 128px 128px;
+    background: rgba(244, 246, 252, 1);
+}
+.how{
+    color: var(--dark-blue, #282938);
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+.ipsum p{
+    color: var(--dark-blue, #282938);
+    margin-top: 38px;
+    width: 405px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    opacity: 0.699999988079071;
+}
+.get p{
+    color: var(--royal-blue, #2405F2);
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.arrow2{
+    margin-top: 13px;
+    margin-left: 12px;
+}
+.toch-arrow{
+    display: flex;
+}
+.strat h2{
+    color: var(--dark-blue, #282938);
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 25px;
+}
+.strat p{
+    color: var(--dark-blue, #282938);
+    opacity: 0.699999988079071;
+    width: 303px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 10px;
+}
+.first-two{
+    display: flex;
+}
+.wire-part{
+    margin-left: 25px;
+}
+.Wirefr h2{
+    color: var(--dark-blue, #282938);
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 25px;
+}
+.Wirefr p{
+    color: var(--dark-blue, #282938);
+    opacity: 0.699999988079071;
+    width: 303px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+.des h2{
+    color: var(--dark-blue, #282938);
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 25px;
+}
+.des p{
+    color: var(--dark-blue, #282938);
+    opacity: 0.699999988079071;
+    width: 303px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 10px;
+}
+.second-two{
+    display: flex;
+}
+.dev-part{
+    margin-left: 25px;
+    margin-top: 48px;
+}
+.design-part{
+    margin-top: 48px;
+}
+.devolop h2{
+    color: var(--dark-blue, #282938);
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 25px;
+}
+.devolop p{
+    color: var(--dark-blue, #282938);
+    opacity: 0.699999988079071;
+    width: 303px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 10px;
+}

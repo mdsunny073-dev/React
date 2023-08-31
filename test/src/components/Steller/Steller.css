@@ -1,0 +1,138 @@
+#building{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.writing-image{
+    position: relative;
+}
+.writing-image::after{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: rgba(28, 30, 83, 0.50);
+}
+.writing-image:hover::after{
+    opacity: 1;
+    transition: 0.8S;
+    width: 656PX;
+}
+.writing-image:hover  h2{
+    opacity: 1;
+    transition: 0.8S;
+}
+.writing-image:hover  P{
+    opacity: 1;
+    transition: 0.8S;
+}
+.writing-image h2{
+    top: 96px;
+    left: 96px;
+    width: 464px;
+    color: var(--white, #FFF);
+    font-family: 'Poppins', sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px;
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+}
+.writing-image p{
+    top: 350px;
+    left: 96px;
+    width: 464px;
+    color: var(--white, #FFF);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+}
+.bacground{
+    background: #1C1E53;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.bg-texts h2{
+    margin-top: 96px;
+    margin-left: 96px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    color: #FFF;
+    position: absolute;
+}
+.bg-texts p{
+    width: 432px;
+    margin-top: 160px;
+    margin-left: 96px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--grey, #F4F6FC);
+    position: absolute;
+}
+.name{
+    background: transparent;
+    width: 432px;
+    height: 64px;
+    border-radius: 8px;
+    border: 3px solid rgba(250, 1, 1, 0.05);
+    margin-top: 256px;
+    margin-left: 96px;
+}
+input[type="text"] {
+    padding: 30px;
+}
+.email{
+    background: transparent;
+    width: 432px;
+    height: 64px;
+    border-radius: 8px;
+    border: 3px solid rgba(250, 1, 1, 0.05);
+    margin-top: 20px;
+    margin-left: 96px;
+}
+input[type="email"] {
+    padding: 30px;
+}
+.inquiry-button button{
+    margin-left: 96px;
+    margin-top: 39px;
+    padding: 16px 150px;
+    border-radius: 41px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    background: #FCD980;
+    border: 1px solid #fff;
+    color: #1B1C2B;
+    transition: all linear 0.5s;
+}
+.inquiry-button button:hover{
+    background: rgb(236, 146, 12);
+}
+.last-touch h3{
+    color: var(--white, #FFF);
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 45px;
+    margin-left: 190px;
+}
+.last-touch img{
+    margin-top: -57px;
+    margin-left: 390px;
+}

@@ -1,0 +1,90 @@
+#asked{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.texts h2{
+    width: 328px;
+    color: var(--dark-blue, #282938);
+    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+}
+.texts h3{
+    color: var(--royal-blue, #2405F2);
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 16px;
+}
+.accordion-collapse{
+    transition: 0.8s;
+}
+.first{
+    color: var(--royal-blue, #2405F2);
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-right: 50px;
+    margin-top: 12px;
+}
+.sec{
+    color: var(--royal-blue, #2405F2);
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-right: 50px;
+    margin-top: 12px;
+}
+.third{
+    color: var(--royal-blue, #2405F2);
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-right: 50px;
+    margin-top: 12px;
+}
+.fourth{
+    color: var(--royal-blue, #2405F2);
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-right: 50px;
+    margin-top: 12px;
+}
+.fifth{
+    color: var(--royal-blue, #2405F2);
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-right: 50px;
+    margin-top: 12px;
+}
+.accordion-body{
+    color: var(--dark-blue, #282938);
+    width: 624px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+/* .accordion-button::after {
+    background: #f1e9e6;
+    background-image: url(../images/three.svg);
+}
+.accordion-button:not(.collapsed)::after {
+    background-image: url(../images/two.svg)
+}
+.accordion-button:not(.collapsed) {
+    color: rgb(247, 242, 242);
+    background-color: rgb(230, 12, 4);
+    box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+} */
